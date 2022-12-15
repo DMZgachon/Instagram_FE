@@ -5,6 +5,7 @@ Gachon Univ. 21, Database Term Project - Instagram Clone
 
 * description: Gachon Univ. 21, Database Term Project - Instagram Clone
 * author: 김예지, 김의진, 서지호, 조태완
+* server code: https://github.com/taewan2002/DB_instagram_server
 * version: 1.0.0
 * university: Gachon University
 * department: Artificial Intelligence
