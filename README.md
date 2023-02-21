@@ -1,6 +1,16 @@
 # instagram
 Gachon Univ. 21, Database Term Project - Instagram Clone
 
+## Basic information
+
+* description: Gachon Univ. 21, Database Term Project - Instagram Clone
+* author: 김예지, 김의진, 서지호, 조태완
+* version: 1.0.0
+* university: Gachon University
+* department: Artificial Intelligence
+* email: taewan2002@gachon.ac.kr, ksdk6145@gachon.ac.kr, whitekuj02@gachon.ac.kr, yezii1120@gachon.ac.kr 
+* last update: 2022-11-28
+
 ## Database tables
 
 ### `chat_manager`
