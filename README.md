@@ -1,19 +1,6 @@
 # instagram
 Gachon Univ. 21, Database Term Project - Instagram Clone
 
-<div style="text-align: center;"><h1>The Blueprint</h1></div>
-
-## Basic information
-
-* name: Instagram
-* description: Instagram clone coding
-* author: 김예지, 김의진, 서지호, 조태완
-* version: 1.0.0
-* university: Gachon University
-* department: Artificial Intelligence
-* email: taewan2002@gachon.ac.kr, ksdk6145@gachon.ac.kr, whitekuj02@gachon.ac.kr, yezii1120@gachon.ac.kr
-* last update: 2022-11-24
-
 ## Database tables
 
 ### `chat_manager`
@@ -150,4 +137,3 @@ Gachon Univ. 21, Database Term Project - Instagram Clone
 
 * `user_id`: mysql auto increment
 * https://dev.mysql.com/doc/refman/5.6/en/innodb-auto-increment-handling.html
-
